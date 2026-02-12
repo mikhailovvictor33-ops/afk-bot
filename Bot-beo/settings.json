@@ -1,0 +1,52 @@
+{
+  "bot-account": {
+    "username": "NuttellaHUB",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "beos.aternos.me",
+    "port":30015,
+    "version": "1.18.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "yassinehzz$is$the$best" 
+    }, 
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 120,
+
+      "messages": [
+        "Beo",
+        "tao beo",
+        "beo",
+          "Tao rat beo",
+        "beo beo",
+        "bel",
+        "co cai con cac"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 60
+  }
+}
